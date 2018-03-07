@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Otter Library</string>
+    <string name="create_account">Create Account</string>
+    <string name="place_hold">Place Hold</string>
+    <string name="cancel_hold">Cancel Hold</string>
+    <string name="manage_system">Manage System</string>
+    <string name="create_username">Username</string>
+    <string name="create_password">Password</string>
+    <string name="submit_user">Submit</string>
+    <string name="pick_header">Pick-up Date/Time</string>
+    <string name="pick_month">MM</string>
+    <string name="pick_day">DD</string>
+    <string name="pick_year">YYYY</string>
+    <string name="pick_hour">Hour</string>
+    <string name="pick_minute">Minute</string>
+    <string name="drop_header">Return Date/Time</string>
+    <string name="confirm_schedule">Confirm</string>
+    <string name="enter_username">Username</string>
+    <string name="enter_password">Password</string>
+    <string name="add_book">Add Book</string>
+    <string name="enter_title">Book Title</string>
+    <string name="enter_author">Author</string>
+    <string name="enter_isbn">ISBN</string>
+    <string name="enter_fee">Hourly Fee</string>
+    <string name="submit_book">Submit</string>
+</resources>

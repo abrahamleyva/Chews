@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Shift Cipher</string>
+    <string name="message_hint">Enter a message</string>
+    <string name="value_hint">Enter a shift value</string>
+    <string name="submit">Submit</string>
+</resources>
